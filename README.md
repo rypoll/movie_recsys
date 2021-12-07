@@ -6,7 +6,7 @@ This is an app created using Streamlit, deployed using docker and Google Cloud R
 
 ## Preview
 
-![Preview of the app, where the user searched for the movie "interstellar".](preview.png)
+![Preview of the app, where the user searched for the movie "interstellar".](preview.PNG)
 
 ## How are movies recommended based off an inputted movie?
 Each movie in the data contains a synopsis - a description of the plot of the movie. Movies also contain meta-data which captures things about the movie such as the director, the cast, and the genre of the movie. Using Natural Language Processing and Cosine Similarity, the synopsis and the meta-data for the inputted movie is compared the to synopses and meta-data of the other movies in the dataset. A score is given for each movie that indicates the degree of similarity between the movies, with higher scores being more similar. Factored into the similarity score is also the average rating and the number of votes of each of the movies - such that more popular and highly rated movies are more likely to appear in the recommendations.
