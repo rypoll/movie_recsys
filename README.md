@@ -14,6 +14,6 @@ Each movie in the data contains a synopsis - a description of the plot of the mo
 ## The app
 The app is [here.](https://moviereco-gdkfo3moia-ew.a.run.app/)
 
-### Note
+## Note
 
 The data has been exluded from the upload since it's larger than the 100mb limit github imposes.
