@@ -1,4 +1,4 @@
-# A Movie Recommender
+# A Movie Recommender, Cosine Similarity, Docker, Google Cloud Run, Streamlit
 
 ## Movie recommendations based on a movie you like.
 
